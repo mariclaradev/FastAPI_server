@@ -1,0 +1,10 @@
+Dick.py
+aiohttp
+amino-socket
+aiohttp
+Click==7.0
+dnspython==1.16.0
+email-validator==1.0.4
+fastapi==0.65.2
+uvicorn
+heroku3
