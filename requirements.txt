@@ -1,4 +1,4 @@
-Dick.py
+gick.py
 aiohttp
 amino-socket
 aiohttp
