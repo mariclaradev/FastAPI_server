@@ -1,4 +1,4 @@
-Este script cria um servidor FastAPI para autenticação na API do Amino (Narvii) e permite reiniciar automaticamente um bot no Heroku caso ocorra falha no login.
+Este script cria um servidor FastAPI para autenticação na API de um aplicativo e permite reiniciar automaticamente um bot no Heroku caso ocorra falha no login.
 
 🔹 Principais Funcionalidades:
 ✅ Autenticação – Faz login na API do Amino, gerando um ID de dispositivo único e assinando os dados com HMAC-SHA1.
